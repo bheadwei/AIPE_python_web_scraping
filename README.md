@@ -31,7 +31,9 @@
 ## 專案結構
 .
 ├── gutenberg_zh_scraper.py    # 主程式
+
 ├── hw_txt/                    # 下載後的書籍文字檔案
+
 └── README.md                  # 專案說明文件
 
 ## 注意事項
