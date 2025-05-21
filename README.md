@@ -16,7 +16,7 @@
 ## 使用說明
 - 執行`gutenberg_chineseBook.ipynb`
 - 執行後會在資料夾中產生一個名為 `hw_txt` 的資料夾，裡面包含已清理完畢的 .txt 書籍檔
-![alt text](image.png)
+
 ## 輸出結果
 ![](執行過程的擷圖或說明圖片)
 已儲存：hw_txt\24193-燕子箋.txt
